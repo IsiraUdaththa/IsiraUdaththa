@@ -1,4 +1,13 @@
 ### Hi there 👋
+<!-- 
+- 💬 Ask me about Artificial Intelligence or Google
+- 📫 How to reach me: lmoroney@gmail.com
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: Father to Chris and Claudia Moroney -->
+
+<!-- Learn more about what I do by visiting [my website](https://)! -->
+
+[![Isira's GitHub stats](https://github-readme-stats.vercel.app/api?username=IsiraUdaththa)](https://github.com/IsiraUdaththa/github-readme-stats)
 
 <!--
 **IsiraUdaththa/IsiraUdaththa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
