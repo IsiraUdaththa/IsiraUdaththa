@@ -9,6 +9,9 @@
 
 [![Isira's GitHub stats](https://github-readme-stats.vercel.app/api?username=IsiraUdaththa&show_icons=true&title_color="5D8CB3"&icon_color="4798FF"&text_color="718CA1"&bg_color=0d1117")](https://github.com/IsiraUdaththa/github-readme-stats)
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsiraUdaththa)](https://github.com/IsiraUdaththa/github-readme-stats)
+
 <!--
 **IsiraUdaththa/IsiraUdaththa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
