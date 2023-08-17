@@ -7,13 +7,12 @@
 	- 📫 Reach me via email: isira.udattha@gmail.com
 
 ## Skills
-- **Programming:** Python (NumPy, Pandas, Matplotlib, Seaborn, Sci-kit Learn, TensorFlow)
-- **Data Science:** Basic knowledge of Statistics, Calculus, and Data Analytics. Intermediate knowledge of ML, AI, and Software Engineering through Udacity Data Analyst and Data Scientist Nanodegrees.
-- **TensorFlow & AI:** Completed TensorFlow Developer Professional Certificate and TensorFlow 2 for Deep Learning Specialization from DeepLearning.AI.
-- **Databases:** SQL (design, normalization, joins, and views), MongoDB (querying and usage).
-- **Web Development:** Django, HTML, CSS, JavaScript. Developed basic web services using XAMPP tech stack.
+- **Programming:** Python, R, Java, C/C++
+- **TensorFlow & AI:** 
+- **Databases:** SQL, MongoDB
+- **Web Development:** Django, HTML, CSS, JavaScript.
 - **Visualization:** Tableau, Excel.
-- **Other:** R, SolidWorks, Blender.
+- **Other:** SolidWorks, Blender.
 
 
 
