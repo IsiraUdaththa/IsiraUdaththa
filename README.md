@@ -30,14 +30,15 @@
 
 <!-- ## 📜 Blogs & Publications -->
 ## 📊 Gituhub Stats
-<div class='container' style="display: flex; flex-direction: row; justify-content: center;">
-        <p align="left"><img width=200
-                        src="https://github-readme-stats.vercel.app/api/?username=IsiraUdaththa&hide_border=true&show_icons=true&card_width=400&hide_title=true&bg_color=0d1117&text_color=ffffff&icon_color=ffffff&ring_color=ffffff"
-                        alt="github-readme-stats" /></p>
-        <p align="right"><img width=200
-                        src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsiraUdaththa&layout=compact&bg_color=0d1117&text_color=ffffff&card_width=400&hide_title=true&hide_border=true"
-                        alt="github-readme-stats-top-langs" /></p>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" style="padding=0;"><img width="400" src="https://github-readme-stats.vercel.app/api/?username=IsiraUdaththa&hide_border=true&show_icons=true&card_width=400&hide_title=true&bg_color=0d1117&text_color=ffffff&icon_color=ffffff&ring_color=ffffff" alt="GitHub Stats"></td>
+      <td align="center" style="padding=0;"><img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsiraUdaththa&layout=compact&bg_color=0d1117&text_color=ffffff&card_width=400&hide_title=true&hide_border=true" alt="Top Languages"></td>
+    </tr>
+  </table>
 </div>
+
 
 <img src="https://raw.githubusercontent.com/IsiraUdaththa/IsiraUdaththa/output/github-contribution-grid-snake-dark.svg">
 <div class='container' style="display: flex; flex-direction: row; justify-content: center;">
@@ -45,3 +46,6 @@
                         src="https://github-readme-streak-stats.herokuapp.com/?user=IsiraUdaththa&theme=github_dark&mode=weekly&card_width=822&hide_border=true"
                         alt="github-readme-streak-stats" /></p>
 </div>
+
+
+
