@@ -42,16 +42,11 @@
 
 <img src="https://raw.githubusercontent.com/IsiraUdaththa/IsiraUdaththa/output/github-contribution-grid-snake-dark.svg">
 
+<p align="center"><img
+        src="https://github-readme-streak-stats.herokuapp.com/?user=IsiraUdaththa&
+        theme=github_dark&hide_border=true&mode=weekly&card_width=846"
+        alt="github-readme-streak-stats" /></p>
 
-
-
-
-<div class='container' style="display: flex; flex-direction: row; justify-content: center;">
-    <p align="center"><img
-            src="https://github-readme-streak-stats.herokuapp.com/?user=IsiraUdaththa&
-			theme=github_dark&hide_border=true&mode=weekly&card_width=846"
-            alt="github-readme-streak-stats" /></p>
-</div>
 
 
 ---
