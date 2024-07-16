@@ -38,7 +38,7 @@
         <img width="400" src="https://github-readme-stats.vercel.app/api/?username=IsiraUdaththa&hide_border=true&show_icons=true&card_width=400&hide_title=true&bg_color=0d1117&text_color=ffffff&icon_color=ffffff&ring_color=ffffff" alt="GitHub Stats">
       </td>
       <td align="center">
-        <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsiraUdaththa&layout=compact&bg_color=0d1117&text_color=ffffff&card_width=400&hide_title=true&hide_border=true" alt="Top Languages">
+        <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsiraUdaththa&layout=compact&bg_color=0d1117&text_color=ffffff&card_width=400&hide_title=true&hide_border=true&hide=jupyter%20notebook,java%20script,html,css" alt="Top Languages">
       </td>
     </tr>
   </table>
