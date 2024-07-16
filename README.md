@@ -35,7 +35,7 @@
                         src="https://github-readme-stats.vercel.app/api/?username=IsiraUdaththa&hide_border=true&show_icons=true&card_width=411&hide_title=true&bg_color=0d1117&text_color=ffffff&icon_color=ffffff&ring_color=ffffff"
                         alt="github-readme-stats" /></p>
         <p align="center"><img width=411
-                        src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsiraUdaththa&layout=compact&bg_color=0d1117&text_color=ffffff&hide=jupyter notebook,html,css,javascript"
+                        src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsiraUdaththa&layout=compact&bg_color=0d1117&text_color=ffffff"
                         alt="github-readme-stats-top-langs" /></p>
 </div>
 
