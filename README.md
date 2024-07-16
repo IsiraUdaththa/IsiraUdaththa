@@ -26,27 +26,16 @@
 ![NeoVim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=flat-square&logo=neovim&logoColor=white)
 
 
-<!-- ## 🚀 Projects -->
-
-<!-- ## 📜 Blogs & Publications -->
-
 ## 📊 Gituhub Stats
-<!-- <div class='container' style="display: flex; flex-direction: row; justify-content: center;">
-    <p align="center"><img width=411
-            src="https://github-readme-stats.vercel.app/api/?username=IsiraUdaththa&hide_border=true&show_icons=true&card_width=411&hide_title=true&bg_color=0d1117&text_color=ffffff&icon_color=ffffff&ring_color=ffffff"
-            alt="github-readme-stats" /></p>
-    <p align="center"><img width=411
-            src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsiraUdaththa&hide_border=True&layout=compact&card_width=423&hide_title=true&bg_color=0d1117&text_color=ffffff&hide=jupyter notebook,html,css,javascript"
-            alt="github-readme-stats-top-langs" /></p>
-</div> -->
+
 
 <img src="https://raw.githubusercontent.com/IsiraUdaththa/IsiraUdaththa/output/github-contribution-grid-snake-dark.svg">
-
-<p align="center"><img
-        src="https://github-readme-streak-stats.herokuapp.com/?user=IsiraUdaththa&
-        theme=github_dark&hide_border=true&mode=weekly&card_width=846"
-        alt="github-readme-streak-stats" /></p>
-
+<div class='container' style="display: flex; flex-direction: row; justify-content: center;">
+    <p align="center"><img
+            src="https://github-readme-streak-stats.herokuapp.com/?user=IsiraUdaththa&
+			theme=github_dark&hide_border=true&mode=weekly&card_width=846"
+            alt="github-readme-streak-stats" /></p>
+</div>
 
 
 ---
