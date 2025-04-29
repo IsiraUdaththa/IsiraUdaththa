@@ -1,9 +1,8 @@
 ### Hi there 👋 Welcome to my GitHub Page
 
-- 🌱 I’m currently learning Engineering and Computer Science
-- 👯 I’m looking to collaborate on anything interesting involving data.
-- 🤔 I’m looking for help with Complex Stuff
-- 💬 Ask me about anything
+- 🌱 I’m currently studying Engineering and Computer Science.
+- 👯 I’m open to collaborating on exciting projects, especially those involving data.
+- 💬 Feel free to ask me anything—I'm always up for a good conversation!
 - 📫 Reach me via email: isira.udattha@gmail.com
 
 ## 🔧 Technical Skills
@@ -11,19 +10,19 @@
 
 
 ### Programming Languages:
-![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python&logoColor=white)
-![C/C++](https://img.shields.io/badge/-C%2FC%2B%2B-blue?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-green?style=flat-square&logo=python&logoColor=white)
+![Typescript](https://img.shields.io/badge/-Typescript-blue?style=flat-square&logo=Typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-orange?style=flat-square&logo=openjdk&logoColor=white)
+![C/C++](https://img.shields.io/badge/-C%2FC%2B%2B-blue?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQLite-red?style=flat-square&logo=sqlite&logoColor=white)
 ![NoSQL](https://img.shields.io/badge/-MongoDB-brightgreen?style=flat-square&logo=mongodb&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/-MATLAB-blueviolet?style=flat-square&logo=mathworks&logoColor=white)
 
 
 ### Tools and Technologies:
-![LaTeX](https://img.shields.io/badge/-LaTeX-teal?style=flat-square&logo=latex&logoColor=white)
 [![Blender](https://img.shields.io/badge/-Blender-orange?style=flat-square&logo=blender&logoColor=white)](https://www.artstation.com/isira123)
 ![SolidWorks](https://img.shields.io/badge/-SolidWorks-green?style=flat-square&logo=dassaultsystemes&logoColor=white)
-![NeoVim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=flat-square&logo=neovim&logoColor=white)
+![LaTeX](https://img.shields.io/badge/-LaTeX-teal?style=flat-square&logo=latex&logoColor=white)
 
 
 <!-- ## 🚀 Projects -->
