@@ -11,9 +11,9 @@
 
 ### Programming Languages:
 ![Python](https://img.shields.io/badge/-Python-green?style=flat-square&logo=python&logoColor=white)
+![C/C++](https://img.shields.io/badge/-C%2FC%2B%2B-blue?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Typescript](https://img.shields.io/badge/-Typescript-blue?style=flat-square&logo=Typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-orange?style=flat-square&logo=openjdk&logoColor=white)
-![C/C++](https://img.shields.io/badge/-C%2FC%2B%2B-blue?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQLite-red?style=flat-square&logo=sqlite&logoColor=white)
 ![NoSQL](https://img.shields.io/badge/-MongoDB-brightgreen?style=flat-square&logo=mongodb&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/-MATLAB-blueviolet?style=flat-square&logo=mathworks&logoColor=white)
