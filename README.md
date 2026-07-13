@@ -1,7 +1,7 @@
 ### Hi there 👋 Welcome to my GitHub Page
 
-- 🌱 I’m currently studying Engineering and Computer Science.
-- 👯 I’m open to collaborating on exciting projects, especially those involving data.
+- 🌱 I’m currently studying Computer Science.
+- 👯 I’m open to collaborating on exciting projects, especially those involving performance.
 - 💬 Feel free to ask me anything—I'm always up for a good conversation!
 - 📫 Reach me via email: isira.udattha@gmail.com
 
